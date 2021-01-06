@@ -522,3 +522,4 @@ Host,SSL,Port,GET uri,POST uri,User Agent,Watermark
 103.143.28.25,True,443,"103.143.28.23,/__utm.gif",/submit.php,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0),305419896
 98.142.141.43,True,443,"www.nameshow.site,/jquery-3.3.1.min.js",/jquery-3.3.2.min.js,Mozilla/5.1 (Windows NT 6.4; Trident/7.1; rv:12.0) like Gecko,305419896
 146.0.72.91,True,443,"146.0.72.91,/j.ad,91.229.23.63,/updates.rss",/submit.php,Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent,0
+52.114.74.43,True,443,"146.0.72.91,/j.ad,91.229.23.63,/updates.rss",/submit.php,Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent,0
